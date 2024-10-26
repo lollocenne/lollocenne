@@ -22,9 +22,15 @@
 <a href="https://leetcode.com/u/LolloCenne/" target="blank"><img align="center" src="https://img.shields.io/badge/Leet-Code-1DA1F2" alt="LeetCode"/></a>
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=lollocenne&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lollocenne&theme=codeSTACKr&hide_border=false)<br/>
+
+<div display="flex">
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=lollocenne&theme=codeSTACKr&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lollocenne&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
+
+![](https://github-readme-stats.vercel.app/api?username=lollocenne&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 
 ## ✍️ Random Dev Quote
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
