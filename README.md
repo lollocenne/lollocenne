@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi There 👋</h1>
 
 <h2>💫 About Me</h2>
 👋 My name is <b>Lorenzo Cennerilli</b> and I am a student passionate about coding.<br>
@@ -14,6 +14,14 @@
 <h2>🤝🏻 Social</h2>
 <a href="https://www.linkedin.com/in/lorenzo-cennerilli-a786a2290/" target="blank"><img align="center" src="https://img.shields.io/badge/Linked-In-1DA1F2?style=flat&logo=Linked-in&logoColor=white" alt="Linked-In"/></a>
 <a href="https://microstudio.io/lollocenne/" target="blank"><img align="center" src="https://img.shields.io/badge/micro-Studio-1DA1F2" alt="microStudio"/></a>
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=lollocenne&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lollocenne&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lollocenne&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## ✍️ Random Dev Quote
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
 
 <!--
 **lollocenne/lollocenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
