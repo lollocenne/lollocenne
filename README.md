@@ -22,7 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lollocenne&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ✍️ Random Dev Quote
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
 
 <!--
 **lollocenne/lollocenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
