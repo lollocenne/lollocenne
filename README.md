@@ -33,5 +33,5 @@
 
 
 ## ✍️ Random Dev Quote
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 </div>
