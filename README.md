@@ -25,13 +25,13 @@
 
 <div display="inline">
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=lollocenne&theme=codeSTACKr)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lollocenne&theme=codeSTACKr)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lollocenne&theme=midnight-purple)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lollocenne&theme=chartreuse-dark)
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=lollocenne&theme=codeSTACKr)
+![](https://github-readme-stats.vercel.app/api?username=lollocenne&theme=github_dark)
 
 
 ## ✍️ Random Dev Quote
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)
 </div>
