@@ -4,8 +4,8 @@
 <h2>💫 About Me</h2>
 <p>
     👋 My name is <b>Lorenzo Cennerilli</b> and I am a student passionate about coding<br>
-    😍 I love programming, technology and innovations<br>
-    📖 I aspire to become a software engineer and enjoy expanding my knowledge<br>
+    😍 I love <b>programming</b>, <b>technology</b> and <b>innovations</b><br>
+    📖 I aspire to become a <b>software engineer</b> and enjoy expanding my knowledge<br>
     👨‍💻 Always thinking about new projects
 </p>
 
