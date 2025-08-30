@@ -12,7 +12,7 @@
 <h2>🛠 Skills</h2>
 <p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,html,css,java,js,git,github,vscode,visualstudio" align="center">
+        <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,java,js,git,github,vscode,visualstudio,docker,linux" align="center">
     </a>
 </p>
 
